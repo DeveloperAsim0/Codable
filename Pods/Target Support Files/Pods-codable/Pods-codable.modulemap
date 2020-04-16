@@ -1,0 +1,6 @@
+framework module Pods_codable {
+  umbrella header "Pods-codable-umbrella.h"
+
+  export *
+  module * { export * }
+}
